@@ -1,5 +1,5 @@
 # Sentiment-Analysis
-Recreation of the paper "A Sentimental Education: Sentiment Analysis Using Subjectivity  Summarization Based on Minimum Cuts" by Bo Pang and Lillian Lee.
+Recreation of the paper "Thumbs up? Sentiment Classification using Machine Learning Techniques" by Bo Pang and Lillian Lee.
 
 ### Approach
 
