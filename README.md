@@ -1,5 +1,5 @@
 # Sentiment-Analysis
-Recreation of the paper "Thumbs up? Sentiment Classification using Machine Learning Techniques" by Bo Pang and Lillian Lee.
+Recreation of the paper **_Thumbs up? Sentiment Classification using Machine Learning Techniques_** by Bo Pang and Lillian Lee.
 
 ### Approach
 
