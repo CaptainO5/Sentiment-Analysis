@@ -23,7 +23,7 @@ Recreation of the paper "Thumbs up? Sentiment Classification using Machine Learn
  
    are trained on 3-fold and mean accuracies are printed.
   
-> Code is in `/Sentiment Analysis.ipynb`
+> Code is in `/Sentiment_Analysis.ipynb`
 
 ### Results
 
@@ -31,7 +31,7 @@ Recreation of the paper "Thumbs up? Sentiment Classification using Machine Learn
 | -------- | ------------ | ----------- | --- | ------------------- |
 | unigram freqs |	15521	|	79.86	| 70.29	|	82.07 |
 | unigram pres|	15521	|	82.14	|	83.21	|	84.79 |
-| uni+bigrams	| 31042	|	83.14	|	81.71	|	85.14 |
+| uni + bigrams	| 31042	|	83.14	|	81.71	|	85.14 |
 | bigrams pres |	15521	|	81.07	|	75.50	|	78.14 |
 | POS Tags | 17380	|	81.50	|	82.36	|	85.00 |
 | adjectives | 3065	|	78.29	| 76.71	|	77.50 |
